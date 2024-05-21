@@ -1,4 +1,5 @@
-# First-Project
+# Gym Entry Management System
+
 **Problem Statement:-**
 Managing gym entries manually at GITAM has become
 challenging, particularly in accurately tracking the count of
